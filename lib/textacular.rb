@@ -234,4 +234,4 @@ module Textacular
   end
 end
 
-require 'textacular/rails' if defined?(::Rails)
+#require 'textacular/rails' if defined?(::Rails)
